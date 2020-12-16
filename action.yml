@@ -1,6 +1,6 @@
 name: GitHub action for pipeline microservice in Go
 
-input:
+inputs:
   name:
     description: 'Name of microservice folder in monorepo'
     required: true
